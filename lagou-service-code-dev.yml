@@ -1,0 +1,4 @@
+mysql:
+  url: jdbc:mysql://192.168.172.130:3306/lagou?serverTimezone=Asia/Shanghai&useUnicode=true&characterEncoding=utf8
+  username: root
+  password: 123456
